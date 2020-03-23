@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thecooyooz.waltercraig.xyz/sitemap.xml
